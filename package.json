@@ -1,0 +1,7 @@
+{
+  "name": "demo-smtp",
+  "version": "1.0.0",
+  "main": "cliente.js",
+  "scripts": { "start": "node cliente.js" },
+  "dependencies": { "nodemailer": "^10.3.1" }
+}
